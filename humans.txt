@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Brandon Klevence -- Creator -- @bklvnc
+
+
+# THANKS
+
+    <name>
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML, CSS

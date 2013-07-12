@@ -1,0 +1,52 @@
+.container{
+  width:70%;
+  margin:0px auto;
+}
+#heading, #copy  {
+  margin-top: .2em;
+	font-family: 'Rokkitt', serif;
+	font-size:1.2em;
+	text-align: left;
+}
+#heading{
+  text-transform: uppercase;
+  margin-top: 1em;
+}
+a{
+	color:orange;
+	font-family: 'Droid Serif', serif;
+	text-align: left;
+  margin-bottom: 1em;
+}
+h1{
+  font-size:3em;
+	line-height:normal;
+	font-family: 'Droid Serif', serif;
+	text-align: left;
+}
+h3{
+  font-size:1.5em;
+  line-height:normal;
+  font-family: 'Rokkitt', serif;
+  text-align: left;
+}
+
+#badges{
+  width: 100%;
+
+}
+
+#badge{
+  margin: 1em .5em;
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+#details{
+  font-size:1.7em;
+  font-family: 'Droid Serif', serif;
+  text-align: left;
+}
+#container-fluid{
+  padding: 0;
+}

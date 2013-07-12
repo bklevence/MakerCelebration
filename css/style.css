@@ -1,3 +1,9 @@
+      * {
+      margin:0px;padding:0px;
+  line-height:normal;
+  text-align: left;
+  }
+
 .container{
   width:70%;
   margin:0px auto;
